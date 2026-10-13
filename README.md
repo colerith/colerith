@@ -1,4 +1,4 @@
-✨ 爱比狠更伟大
+✨ 爱比恨更伟大
 
 <!---
 fishystony/fishystony is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
